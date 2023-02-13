@@ -4,3 +4,4 @@ ram : 4.00 GB
 version : 8.2.0
 hello how are you
 version : 8.3.0
+version : 8.7.0
