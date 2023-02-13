@@ -2,6 +2,6 @@ name : oppo A5
 version : 8.1.0
 ram : 4.00 GB
 version : 8.2.0
-hello how are you
+
 version : 8.3.0
 version : 8.7.0
